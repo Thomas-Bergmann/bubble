@@ -51,7 +51,7 @@ subprojects {
 
                 dependency 'com.nimbusds:nimbus-jose-jwt:9.40'
 
-                dependency "net.logstash.logback:logstash-logback-encoder:7.4"
+                dependency "net.logstash.logback:logstash-logback-encoder:8.0"
 
                 dependency 'de.hatoka.neuralnetwork:neuralnetwork:2.0.0'
 
